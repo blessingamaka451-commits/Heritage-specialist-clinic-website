@@ -227,7 +227,7 @@ img {
 .hero-section {
     position: relative;
     min-height: 100vh;
-    background-image: url('/images/building6.jpg'); /* Modern hospital building background placeholder */
+    background-image: url('./images/building6.jpg'); /* Modern hospital building background placeholder */
     background-size: cover;
     background-position: center;
     display: flex;
@@ -377,7 +377,7 @@ img {
 .about-banner-hero {
     position: relative;
     height: 450px;
-    background-image: url('/images/building5.jpg');
+    background-image: url('./images/building5.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -514,7 +514,7 @@ img {
 .services-banner-hero {
     position: relative;
     height: 450px;
-    background-image: url('/images/services-bg.jpg');
+    background-image: url('./images/services-bg.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -640,7 +640,7 @@ img {
 .dept-banner-hero {
     position: relative;
     height: 450px;
-    background-image: url('/images/dept-bg.jpg');
+    background-image: url('./images/dept-bg.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -718,7 +718,7 @@ img {
 .faq-banner-hero {
     position: relative;
     height: 450px;
-    background-image: url('/images/contact.jpg');
+    background-image: url('./images/contact.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
